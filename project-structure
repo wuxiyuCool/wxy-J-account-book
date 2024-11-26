@@ -1,0 +1,15 @@
+├── pages
+│   ├── index
+│   │   └── index.vue      // 首页(账单列表)
+│   ├── add
+│   │   └── add.vue        // 记账页面
+│   ├── statistics
+│   │   └── statistics.vue // 统计页面
+│   └── category
+│       └── category.vue   // 分类管理页面
+├── components
+│   ├── bill-item.vue      // 账单项组件
+│   └── category-picker.vue // 分类选择器组件
+└── utils
+    ├── database.js        // 数据库操作
+    └── common.js          // 公共函数 

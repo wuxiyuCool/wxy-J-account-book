@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('//at.alicdn.com/t/c/font_4444845_sl6fz4l877.woff2?t=1710468877510') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4444845_sl6fz4l877.woff?t=1710468877510') format('woff'),
+       url('//at.alicdn.com/t/c/font_4444845_sl6fz4l877.ttf?t=1710468877510') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-list:before {
+  content: "\e7f4";
+}
+
+.icon-stats:before {
+  content: "\e7fd";
+}
+
+.icon-category:before {
+  content: "\e747";
+}
+
+.icon-data:before {
+  content: "\e602";
+}
+
+.icon-food:before {
+  content: "\e870";
+}
+
+.icon-car:before {
+  content: "\e8f1";
+}
+
+.icon-shop:before {
+  content: "\e708";
+}
+
+.icon-money:before {
+  content: "\e8df";
+}
+
+.icon-other:before {
+  content: "\e631";
+}
+
+.icon-entertainment:before {
+  content: "\e891";
+}
+
+.icon-medical:before {
+  content: "\e705";
+}
+
+.icon-education:before {
+  content: "\e60a";
+}
+
+.icon-house:before {
+  content: "\e677";
+}
+
+.icon-gift:before {
+  content: "\e8c4";
+}
+
+.icon-salary:before {
+  content: "\e644";
+}
+
+.icon-bonus:before {
+  content: "\e60e";
+}
+
+.icon-investment:before {
+  content: "\e61b";
+}
+
+.icon-add:before {
+  content: "\e767";
+} 
